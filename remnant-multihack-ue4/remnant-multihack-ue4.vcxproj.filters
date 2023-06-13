@@ -75,9 +75,6 @@
     <ClInclude Include="Framework\Utils\StringUtils.h">
       <Filter>Framework\Utils</Filter>
     </ClInclude>
-    <ClInclude Include="Framework\Engines\UnrealEngine4\ObjectUtils.h">
-      <Filter>Framework\Engines\UnrealEngine4</Filter>
-    </ClInclude>
     <ClInclude Include="Framework\Engines\UnrealEngine4\Offsets_UE4.h">
       <Filter>Framework\Engines\UnrealEngine4</Filter>
     </ClInclude>
@@ -322,9 +319,6 @@
     </ClCompile>
     <ClCompile Include="Framework\Utils\StringUtils.cpp">
       <Filter>Framework\Utils</Filter>
-    </ClCompile>
-    <ClCompile Include="Framework\Engines\UnrealEngine4\ObjectUtils.cpp">
-      <Filter>Framework\Engines\UnrealEngine4</Filter>
     </ClCompile>
     <ClCompile Include="Framework\Utils\FileUtils.cpp">
       <Filter>Framework\Utils</Filter>

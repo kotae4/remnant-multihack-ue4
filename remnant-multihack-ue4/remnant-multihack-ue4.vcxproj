@@ -158,7 +158,6 @@
     <ClInclude Include="CheatMain.h" />
     <ClInclude Include="Config.h" />
     <ClInclude Include="Framework\Engines\UnrealEngine4\Core.h" />
-    <ClInclude Include="Framework\Engines\UnrealEngine4\ObjectUtils.h" />
     <ClInclude Include="Framework\Engines\UnrealEngine4\Offsets_UE4.h" />
     <ClInclude Include="Framework\Engines\UnrealEngine4\Structs\AActor.h" />
     <ClInclude Include="Framework\Engines\UnrealEngine4\Structs\ACharacter.h" />
@@ -243,7 +242,6 @@
     <ClCompile Include="Config.cpp" />
     <ClCompile Include="dllmain.cpp" />
     <ClCompile Include="Framework\Engines\UnrealEngine4\Core.cpp" />
-    <ClCompile Include="Framework\Engines\UnrealEngine4\ObjectUtils.cpp" />
     <ClCompile Include="Framework\Engines\UnrealEngine4\Structs\AHUD.cpp" />
     <ClCompile Include="Framework\Engines\UnrealEngine4\Structs\ULineBatchComponent.cpp" />
     <ClCompile Include="Framework\Engines\UnrealEngine4\Structs\UObject.cpp" />
