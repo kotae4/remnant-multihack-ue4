@@ -1,0 +1,190 @@
+Character_ArmorSkinVendor_Ward13_C:Skin Vendor
+Interactive_City_SingleDoor_C:Door
+Interactive_Book_LogBook_C:Log Book
+BP_Computer_C:Computer
+Character_Root_Hag_Ward13_C:Upgrade Vendor
+Character_Merchant_Ward13_C:Merchant
+Character_Scavenger_Ward13_C:Mats Merchant
+Character_Engineer_Ward13_C:Engineer
+Character_Commander_Ford_C:Cmdr Ford
+Interactive_DragonCrystal_PlayerBase_AfterIntro_C:Dragon Crystal
+Interactive_Book_C:Book
+Interactive_DATLA_C:DATLA Terminal
+Character_Armorer_Ward13_C:Armorer
+Character_Survivor_Female_C:Survivor
+Character_Survivor_Male_C:Survivor
+Character_Wallace_Ward13_C:Wallace
+Character_Guard_Ward13_C:Guard
+Item_Flashlight_NPC_C:Flashlight
+BP_Inspectable_C:Inspectable
+BP_Intro_Reactor_Terminal_C:Terminal
+Interactive_CardReader_C:Card Reader
+Interactive_Fusebox_C:Fusebox
+Interactive_KeyBox_C:Keybox
+Quest_DATLA_Key_C:DATLA Key
+Interactive_DATLA_KeyBox_C:DATLA Keybox
+Character_Root_Broken_Weak_C:Root
+Character_Root_Broken_C:Root
+Character_Root_Brute_C:(Elite) Brute
+Character_Root_Priest_C:(Elite) Root Priest
+Character_Root_Hollow_C:Hollow
+Character_Root_Spore_C:Spore
+Character_Root_Ambusher_C:Shooter
+Character_Root_Tumbleweed_C:Tumbleweed
+Character_Root_Rattleweed_C:Rattleweed
+Character_Root_Sniper_C:Sniper
+Character_Root_Seed_Caller_C:(Elite) Seed Caller
+Character_Root_Nova_Priest_C:(Elite) Nova Priest
+Character_Root_Juggernaut_C:(Elite) Juggernaut
+Character_Root_SnareBrute_C:(Elite) Root Brute
+Character_Root_Immolator_C:(Elite) Root Immolator
+Character_Root_Hunter_C:(Elite) Root Hunter
+Character_Root_Wraith_Screamer_C:(Elite) Root Wraith Screamer
+Character_Root_Wraith_C:(Elite) Root Wraith
+Character_Root_Knight_C:(Elite) Root Knight
+Character_Root_Wraith_Champion_C:(Boss) Shroud
+Character_Root_Hollow_Champion_C:(Boss) The Mangler
+Character_Root_Splitter_Champion_C:(Boss) Run Ender
+Character_Root_Brute_Champion_C:(Boss) Gorefist
+Character_Root_Splitter_ChampionClone_C:(Boss) gg xd
+Character_Root_Dragon_C:(Boss) Singe
+Quest_Boss_RootDragon_Immolator_C:Immolator
+Character_Wasteland_Hound_GoodBoy_C:GoodBoy
+Character_Wasteland_Hound_C:Hound
+Character_Wasteland_Impaler_C:Impaler
+Character_Wasteland_Detonator_C:Detonator
+Character_Wasteland_Melee_C:(Elite) Skirmisher
+Character_Wasteland_Skull_C:Flying Skull
+Character_Wasteland_Slinger_Rifleman_C:Rifleman
+Character_Wasteland_Shaman_C:Shaman
+Character_Wasteland_Stalker_C:Stalker
+Character_Wasteland_Ghast_C:Ghast
+Character_Wasteland_Lurker_C:Lurker
+Character_Wasteland_Annointed_Melee_C:Annointed Melee
+Character_Wasteland_Annointed_Ranged_C:Annointed Sentinel
+Character_Wasteland_IronSentinel_Turret_C:Turret
+Character_Wasteland_Claws_C:(Boss) The Harrow
+Character_Wasteland_Guardian_C:(Boss) Claviger
+BP_Breakable_Shield_Crystal_C:(Boss) Shield Crystal
+Character_Swamp_Digger_C:Digger
+Character_Swamp_Relentless_C:(Elite) Relentless
+Character_Swamp_Fallen_C:Fallen
+Character_Swamp_Zombie_C:Zombie
+Character_Swamp_Zombie_Crawler_C:Crawler
+Character_Swamp_Zombie_Crawler_Lasher_C:Crawler Lasher
+Character_Swamp_Zombie_Lasher_C:Lasher
+Character_Swamp_Soldier_C:Soldier
+Character_Swamp_Blademaw_C:Blademaw
+Character_Swamp_BrainBug_C:(Special) Brain Bug
+Character_Swamp_Bug_C:(Elite) Screamy Buggy Boo
+Character_Swamp_FatCreature_SwarmHost_C:(Elite) Swarm Host
+Character_Swamp_Knight_C:(Elite) Swamp Knight
+Character_Swamp_Scavenger_C:Scavenger
+Character_Swamp_Scavenger_Armored_C:Armored Scavenger
+Character_Swamp_Parasite_Zombie_C:Parasite Zombie
+Character_Swamp_TempleFiend_C:Temple Fiend
+Character_Swamp_BarbedTerror_C:Barbed Terror
+Character_Swamp_Sketterling_Bug_C:(Special) Sketterling Bug
+Character_Swamp_Shaman_Chigger_C:(Elite) Chigger
+Character_Swamp_ToxicMaiden_C:(Elite) Toxic Maiden
+Character_Swamp_Bug_Temple_C:(Elite) Temple Bug
+Character_Swamp_FlickeringHorror_C:(Elite) Flickering Horror
+Character_Swamp_ElfQueen_Boss_C:Iskal Queen
+Character_Swamp_ElfQueen_Bug_C:Bug
+Character_Swamp_ElfQueen_Bug_Big_C:Bug
+Character_Swamp_Throne_Bug_C:Bug
+Character_Swamp_Throne_Bug_Big_C:Bug
+Character_Swamp_Shaman_Tyrant_Champion_C:(Boss) The Thrall
+Character_Swamp_FatCreature_SlimeHulk_Champion_C:(Boss) Canker
+Character_Swamp_FlickeringHorror_Champion_C:(Boss) Dream Eater
+Character_Swamp_BarbedTerror_Champion_C:(Boss) Barbed Terror
+Character_Swamp_Boss_Fatty_Alt_C:(Boss) The Unclean One
+Character_Swamp_Boss_Fatty_C:(Boss) The Unclean One
+Character_Swamp_FatCreature_Bloat_C:(Elite) me_irl
+Character_Swamp_Guardian_C:(Boss) Ixiililsiis
+Character_Pan_Savage_C:Pan Savage
+Character_Pan_Flyer_Slink_C:Slink
+Character_Pan_Glaivesman_C:Glaivesman
+Character_Pan_Fleshopede_C:Fleshopede
+Character_Pan_Bowman_C:Bowman
+Character_Pan_Immolator_C:Immolator
+Character_Pan_Swordsman_C:Swordsman
+Character_Pan_Flyer_Solar_C:Solar Slink
+Character_Pan_ThunderTusk_C:Thunder Tusk
+Character_Pan_Zombie_C:Pan Zombie
+Character_Pan_Glaivesman_Slayer_C:Glaivesman Slayer
+Character_Pan_Assassin_C:Pan Assassin
+Character_Pan_Shrike_C:Shrike
+Character_Pan_ShockWarden_C:(Elite) Shock Warden
+Character_Pan_Brute_C:(Elite) Pan Brute
+Character_Pan_Priest_C:(Elite) Pan Priest
+Character_Pan_Spearman_C:(Elite) Pan Spearman
+Character_Pan_KinCaller_C:(Elite) Kin Caller
+Character_Pan_BlackHorn_C:(Elite) Black Horn
+Character_Pan_Horror_Champion_C:(MiniBoss) Root Horror
+Character_Pan_KinCaller_Champion_C:(Boss) Kin Caller
+Character_Pan_Immolator_Champion_C:(Boss) Immolator
+Character_Pan_Flyer_Zephyr_Champion_C:(Boss) Zephyr
+Character_Pan_BlinkFiend_Champion_C:(Boss) Blink Fiend
+Character_Pan_Boss_C:(Boss) Stormcaller
+Character_Pan_Piper_C:Flautist
+Character_StuckMerchant_NPC_C:Stuck Merchant
+Character_Obelisk_Equipment_Trinkets_Survival_C:Trinkets
+Character_Obelisk_Consumables_Survival_C:Consumables
+Character_Obelisk_DragonHeartUpgrades_Survival_C:Dragon Heart Upgrades
+Character_Obelisk_Equipment_Armor_Survival_C:Armor
+Character_Obelisk_Equipment_Weapons_Survival_C:Weapons
+Interactive_LootContainer_Chest_WL_Citadel_C:Chest
+Interactive_LootContainer_C:Chest
+Interactive_LootContainer_Chest_WL_C:Chest
+Swamp_Interactive_LootContainer_C:Chest
+Interactive_LootContainer_Chest_C:Chest
+Interactive_Waypoint_C:Exit
+Interactive_ZoneDoor_Default_C:Exit
+Interactive_DragonCrystal_C:Checkpoint
+Interactive_Campfire_C:Checkpoint
+Interactive_Dragon_Crystal_Survival_C:Checkpoint
+Interactive_FireWeed_C:Explosive Mine
+Interactive_Book_Swamp_Base_C:Book
+Resource_Scraps_C:Scrap
+Resource_Rare_ForgedIron_C:Forged Iron
+Resource_Rare_HardenedIron_C:Hardened Iron
+Resource_Rare_GalvanizedIron_C:Galvanized Iron
+Resource_Rare_Iron_C:Basic Iron
+Resource_Special_LumeniteCrystal_C:Lumenite Crystal
+Resource_Special_GlowingFragment_C:Glowing Fragment
+Resource_TraitBook_C:Trait Book
+BP_GenericItem_Traits_C:Trait Book
+BP_GenericItem_Equipment_City_C:Equipment Item
+BP_GenericItem_Equipment_Swamp_C:Equipment Item
+BP_GenericItem_Equipment_Jungle_C:Equipment Item
+BP_GenericItem_Equipment_All_C:Equipment Item
+Consumable_FrenzyDust_C:Frenzy Dust
+Consumable_DragonHeart_SurvivalMode_PickUp_C:Dragon Heart Charge
+Consumable_Adrenaline_C:Adrenaline
+Consumable_Bloodwort_C:Bloodwort
+Consumable_EtherealOrb_C:Ethereal Orb
+Consumable_HydroCoolant_C:Hydro-Coolant
+Consumable_Bandage_C:Bandage
+Consumable_OilskinTonic_C:Oilskin Tonic
+Consumable_GreenLeaf_C:Green Leaf
+Consumable_AmmoBox_C:Ammo Box
+Consumable_Antiserum_C:Antiserum
+Consumable_HeavyWaterElixir_C:Heavy Water Elixir
+Trinket_StockpileCirclet_C:Stockpile Circlet Amulet
+Trinket_StoneOfBalance_C:Stone of Balance
+Trinket_StormAmulet_C:Storm Amulet
+Trinket_GravityStone_C:Gravity Stone Amulet
+Trinket_VengeanceIdol_C:Vengeance Idol
+Trinket_BloodFont_C:Blood Font
+Trinket_KeepersRing_C:Keepers Ring
+Trinket_RingOfShadows_C:Ring of Shadows
+Trinket_GuardiansRing_C:Guardians Ring
+Trinket_RingOfElusion_C:Ring of Elusion
+Trinket_DeceiversBand_C:Deceivers Band
+Trinket_RockOfAnguish_C:Rock of Anguish
+Trinket_DevouringLoop_C:Devouring Loop
+Trinket_BandOfPollux_C:Band of Pollux
+Ammo_HandGun_C:Handgun Ammo
+Ammo_LongGun_C:Long Gun Ammo
+Quest_ManyFaces_Key_Item_C:Strange Curio
