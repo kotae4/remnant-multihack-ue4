@@ -4,7 +4,6 @@
 #include "Framework/Utils/json.hpp"
 #include "Framework/Utils/FileUtils.h"
 #include "Framework/Engines/UnrealEngine4/Structs/UObject.h"
-#include "Framework/Engines/UnrealEngine4/ObjectUtils.h"
 
 bool CConfig::Load()
 {

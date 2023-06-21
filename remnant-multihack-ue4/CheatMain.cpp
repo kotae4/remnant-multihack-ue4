@@ -639,5 +639,7 @@ namespace CheatMain
 		{
 			return true;
 		}
+
+		return false;
 	}
 }

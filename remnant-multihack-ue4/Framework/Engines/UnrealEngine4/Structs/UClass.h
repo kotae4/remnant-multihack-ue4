@@ -3,6 +3,8 @@
 #include "UStruct.h"
 #include "UObject.h"
 #include "BucketFNames.h"
+#include "UProperty.h"
+#include "ArrayTypes.h"
 
 namespace UnrealEngine4
 {
@@ -14,19 +16,22 @@ namespace UnrealEngine4
 	}; //Size: 0x0010
 	static_assert(sizeof(FNativeFunctionLookup) == 0x10);
 
-
 	class UClass : public UStruct //Size: 0x0098
 	{
 	public:
-		char pad_00C8[24]; //0x0098
-		unsigned int Possibly_ClassUnique_and_bCooked; //0x00B0
-		unsigned int ClassFlags; //0x00B4
-		unsigned long long ClassCastFlags; //0x00B8
-		class UClass* ClassWithin; //0x00C0
-		class UObject* ClassGeneratedBy; //0x00C8
-		class FName ClassConfigName; //0x00D0
-		char pad_0108[32]; //0x00D8
-		class UObject* ClassDefaultObject; //0x00F8
+		void* ClassConstructorFunc;
+		void* ClassVTableHelperCtorCallerFunc;
+		void* ClassAddReferencedObjectsFunc;
+		unsigned int ClassUniqueCounter;
+		unsigned int bCooked;
+		unsigned int ClassFlags;
+		unsigned int ClassCastFlags;
+		UClass* ClassWithin; //0x00C0
+		UObject* ClassGeneratedBy; //0x00C8
+		FName ClassConfigName; //0x00D0
+		TArray<UProperty*> ClassReps; //0x00D8
+		TArray<UField*> NetFields; //0x00E8
+		UObject* ClassDefaultObject; //0x00F8
 		void* FuncMap; //0x0100
 		__int32 FuncMap_Count; //0x0108
 		__int32 FuncMap_Max; //0x010C
